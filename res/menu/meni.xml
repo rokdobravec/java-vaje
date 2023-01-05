@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id1"
+        android:title="Barva ozadja" />
+    <item
+        android:id="@+id/id2"
+        android:title="Animacija slike" />
+    <item
+        android:id="@+id/id3"
+        android:title="Barva pisave" />
+</menu>

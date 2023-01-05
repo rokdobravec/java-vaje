@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rok Dobravec(Bled)</string>
+    <string name="Pause">Se vidimo kmalu</string>
+    <!--<string name="Sestevek">Sestevek je </string>
+    <string name="Produkt">Produkt je </string>
+    <string name="Zmonzek">Zmonžek je </string>
+    <string name="Razlika">Razlika je </string>-->
+    <string name="zacetek">Services ste vklopili!</string>
+    <string name="konec">Services ste izklopili!</string>
+</resources>
